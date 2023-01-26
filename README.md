@@ -29,7 +29,7 @@ ___
 ![php](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php&Color=47C5FB)
 
 #### 📈 My Stat
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhayluk&count_private=true&show_icons=true)
 
 
 <!--
