@@ -14,7 +14,7 @@ ___
 #### 💾 Technology
 ![tSql](https://img.shields.io/badge/-tSQL-090909?style=for-the-badge&logo=microsoft&Color=47C5FB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&Color=47C5FB)
-![Aure](https://img.shields.io/badge/-Azure-090909?style=for-the-badge&logo=azure&Color=47C5FB)
+![Aure](https://img.shields.io/badge/-Azure-090909?style=for-the-badge&logo=microsoft&Color=47C5FB)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-090909?style=for-the-badge&logo=Snowflake&Color=47C5FB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&Color=47C5FB)
 ![1C8](https://img.shields.io/badge/-1C8-090909?style=for-the-badge&logo=1C8&Color=47C5FB)
@@ -32,7 +32,7 @@ ___
 ![html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&Color=47C5FB)
 ![php](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php&Color=47C5FB)
 ![CRM](https://img.shields.io/badge/-CRM-090909?style=for-the-badge&logo=CRM&Color=47C5FB)
-![DWH](https://img.shields.io/badge/-DWH-090909?style=for-the-badge&logo=DWH&Color=47C5FB)
+![DWH](https://img.shields.io/badge/-DWH-090909?style=for-the-badge&logo=database&Color=47C5FB)
 ![Google](https://img.shields.io/badge/-Google-090909?style=for-the-badge&logo=Google&Color=47C5FB)
 ![Amazon](https://img.shields.io/badge/-Amazon-090909?style=for-the-badge&logo=Amazon&Color=47C5FB)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&Color=47C5FB)
