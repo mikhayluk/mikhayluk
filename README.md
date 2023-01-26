@@ -13,11 +13,19 @@ ___
 
 #### 💾 Technology:
 ![tSql](https://img.shields.io/badge/-tSQL-090909?style=for-the-badge&logo=microsoft&Color=47C5FB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&Color=47C5FB)
+![Aure](https://img.shields.io/badge/-Azure-090909?style=for-the-badge&logo=azure&Color=47C5FB)
+![PowerBI](https://img.shields.io/badge/-PowerBI-090909?style=for-the-badge&logo=PowerBI&Color=47C5FB)
 ![DAX](https://img.shields.io/badge/-DAX-090909?style=for-the-badge&logo=DAX&Color=47C5FB)
 ![MDX](https://img.shields.io/badge/-MDX-090909?style=for-the-badge&logo=MDX&Color=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&Color=47C5FB)
+![jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=jupyter&Color=47C5FB)
+![PySpark](https://img.shields.io/badge/-PySpark-090909?style=for-the-badge&logo=PySpark&Color=47C5FB)
+![anaconda](https://img.shields.io/badge/-anaconda-090909?style=for-the-badge&logo=anaconda&Color=47C5FB)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&Color=47C5FB)
 
 <!--
+
 **mikhayluk/mikhayluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
