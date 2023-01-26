@@ -1,3 +1,5 @@
+![Header](https://github.com/mikhayluk/mikhayluk/blob/main/head_1.png)
+
 # Hi guys! 🤝 I am DataEngineer, and 👇
 
 #### 👋 I am helping businesses to work on their weak points and automatisations of business processes, create value for the company by helping investors, C-level and management have a clear view of company in digits and receive remuneration, find ways to grow, make not-so-easy decisions, and save money.
