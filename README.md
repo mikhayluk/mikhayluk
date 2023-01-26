@@ -1,4 +1,4 @@
-![Header](https://github.com/mikhayluk/mikhayluk/blob/main/head_2.png)
+![Header](https://github.com/mikhayluk/mikhayluk/blob/main/head_3.png)
 
 # Hi guys! 🤝 I am DataEngineer, and 👇
 
