@@ -11,7 +11,7 @@
 #### ✅ Successful experience: Finance reporting (P&L, budget), Logistics, Marketing, VIP customer service department, Call center, Sales Department, Telephone sales, Key customers department, e-commerce reporting (Google integration), Complaints department, Azure migration.
 ___
 
-#### 💾 Technology:
+#### 💾 Technology
 ![tSql](https://img.shields.io/badge/-tSQL-090909?style=for-the-badge&logo=microsoft&Color=47C5FB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&Color=47C5FB)
 ![Aure](https://img.shields.io/badge/-Azure-090909?style=for-the-badge&logo=azure&Color=47C5FB)
@@ -27,6 +27,7 @@ ___
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&Color=47C5FB)
 ![html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&Color=47C5FB)
 ![php](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php&Color=47C5FB)
+___
 
 <!--
 
