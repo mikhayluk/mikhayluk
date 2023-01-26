@@ -11,6 +11,11 @@
 #### ✅ Successful experience: Finance reporting (P&L, budget), Logistics, Marketing, VIP customer service department, Call center, Sales Department, Telephone sales, Key customers department, e-commerce reporting (Google integration), Complaints department, Azure migration.
 ___
 
+#### 💾 Technology:
+![tSql](https://img.shields.io/badge/-tSQL-090909?style=for-the-badge&logo=microsoft&Color=47C5FB)
+![DAX](https://img.shields.io/badge/-DAX-090909?style=for-the-badge&logo=DAX&Color=47C5FB)
+![MDX](https://img.shields.io/badge/-MDX-090909?style=for-the-badge&logo=MDX&Color=47C5FB)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&Color=47C5FB)
 
 <!--
 **mikhayluk/mikhayluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
