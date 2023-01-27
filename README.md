@@ -1,4 +1,4 @@
-# Hi guys! 🤝 Its my IT services & business solutions 👇
+# Hi guys! 🤝 Its my experience 👇
 
 #### 👋 I am helping businesses to work on their weak points and automatisations of business processes, create value for the company by helping investors, C-level and management have a clear view of company in digits and receive remuneration, find ways to grow, make not-so-easy decisions, and save money.
 
