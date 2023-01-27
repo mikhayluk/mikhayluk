@@ -39,7 +39,6 @@ ___
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&Color=47C5FB)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&Color=47C5FB)
 
-
  
 
 #### 📈 My Stat
