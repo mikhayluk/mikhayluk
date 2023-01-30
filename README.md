@@ -18,6 +18,7 @@ ___
 ![Snowflake](https://img.shields.io/badge/-Snowflake-090909?style=for-the-badge&logo=Snowflake&Color=47C5FB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&Color=47C5FB)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&Color=47C5FB)
+![Oracle](https://img.shields.io/badge/-Oracle-090909?style=for-the-badge&logo=Oracle&Color=47C5FB)
 ![1C8](https://img.shields.io/badge/-1C8-090909?style=for-the-badge&logo=1C8&Color=47C5FB)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-090909?style=for-the-badge&logo=PowerBI&Color=47C5FB)
 ![QlikView](https://img.shields.io/badge/-QlikView-090909?style=for-the-badge&logo=QlikView&Color=47C5FB)
