@@ -26,6 +26,7 @@ ___
 ![DAX](https://img.shields.io/badge/-DAX-090909?style=for-the-badge&logo=DAX&Color=47C5FB)
 ![MDX](https://img.shields.io/badge/-MDX-090909?style=for-the-badge&logo=MDX&Color=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&Color=47C5FB)
+![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=R&Color=47C5FB)
 ![jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=jupyter&Color=47C5FB)
 ![PySpark](https://img.shields.io/badge/-PySpark-090909?style=for-the-badge&logo=PySpark&Color=47C5FB)
 ![Scala](https://img.shields.io/badge/-Scala-090909?style=for-the-badge&logo=Scala&Color=47C5FB)
