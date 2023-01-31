@@ -42,5 +42,7 @@ ___
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&Color=47C5FB)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&Color=47C5FB)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhayluk&exclude_repo=ids_database,ProjectBot,Project1_work,bi-qube,ProjectPandas,ProjectPySpark&layout=compact&theme=tokyonight)
+
 #### 📈 My Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhayluk&count_private=true&show_icons=true&theme=tokyonight)
