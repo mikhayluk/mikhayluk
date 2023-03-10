@@ -34,6 +34,7 @@ ___
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&Color=47C5FB)
 ![html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html&Color=47C5FB)
 ![php](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php&Color=47C5FB)
+![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=Rust&Color=47C5FB)
 ![CRM](https://img.shields.io/badge/-CRM-090909?style=for-the-badge&logo=CRM&Color=47C5FB)
 ![DWH](https://img.shields.io/badge/-DWH-090909?style=for-the-badge&logo=database&Color=47C5FB)
 ![Google](https://img.shields.io/badge/-Google-090909?style=for-the-badge&logo=Google&Color=47C5FB)
