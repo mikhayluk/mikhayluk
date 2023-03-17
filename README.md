@@ -38,6 +38,7 @@ ___
 ![CRM](https://img.shields.io/badge/-CRM-090909?style=for-the-badge&logo=CRM&Color=47C5FB)
 ![DWH](https://img.shields.io/badge/-DWH-090909?style=for-the-badge&logo=database&Color=47C5FB)
 ![Google](https://img.shields.io/badge/-Google-090909?style=for-the-badge&logo=Google&Color=47C5FB)
+![BigQuery](https://img.shields.io/badge/-BigQuery-090909?style=for-the-badge&logo=BigQuery&Color=47C5FB)
 ![Amazon](https://img.shields.io/badge/-Amazon-090909?style=for-the-badge&logo=Amazon&Color=47C5FB)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&Color=47C5FB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&Color=47C5FB)
