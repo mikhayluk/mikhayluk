@@ -6,7 +6,7 @@
 
 #### 👉 Created BI solutions to track company KPI's from scratch.
 
-#### 🔥 18+ years of experience in IT and Business systems (Business/System Analyst, Team Lead/Head of division).
+#### 🔥 19+ years of experience in IT and Business systems (Business/System Analyst, Team Lead/Head of division).
 
 #### ✅ Successful experience: Finance reporting (P&L, budget), Logistics, Marketing, VIP customer service department, Call center, Sales Department, Telephone sales, Key customers department, e-commerce reporting (Google integration), Complaints department, Azure migration.
 ___
