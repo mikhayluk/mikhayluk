@@ -22,6 +22,7 @@ ___
 ![1C8](https://img.shields.io/badge/-1C8-090909?style=for-the-badge&logo=1C8&Color=47C5FB)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-090909?style=for-the-badge&logo=PowerBI&Color=47C5FB)
 ![QlikView](https://img.shields.io/badge/-QlikView-090909?style=for-the-badge&logo=Qlik&Color=47C5FB)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-090909?style=for-the-badge&logo=ClickHouse&Color=47C5FB)
 ![Tableau](https://img.shields.io/badge/-Tableau-090909?style=for-the-badge&logo=Tableau&Color=47C5FB)
 ![DAX](https://img.shields.io/badge/-DAX-090909?style=for-the-badge&logo=DAX&Color=47C5FB)
 ![MDX](https://img.shields.io/badge/-MDX-090909?style=for-the-badge&logo=MDX&Color=47C5FB)
