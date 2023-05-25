@@ -13,6 +13,7 @@ ___
 
 #### 💾 Technology
 ![tSql](https://img.shields.io/badge/-tSQL-090909?style=for-the-badge&logo=microsoft&Color=47C5FB)
+![KQL](https://img.shields.io/badge/-KQL-090909?style=for-the-badge&logo=microsoft&Color=47C5FB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&Color=47C5FB)
 ![Aure](https://img.shields.io/badge/-Azure-090909?style=for-the-badge&logo=microsoft&Color=47C5FB)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-090909?style=for-the-badge&logo=Snowflake&Color=47C5FB)
