@@ -1,10 +1,10 @@
 # Hi guys! 🤝 Its my experience 👇
 
-#### 👋 I am helping businesses to work on their weak points and automatisations of business processes, create value for the company by helping investors, C-level and management have a clear view of company in digits and receive remuneration, find ways to grow, make not-so-easy decisions, and save money.
+#### 👋 I specialize in guiding businesses through the exciting journey of digital business transformation. By leveraging technology and strategic insights, I help companies enhance their operations, automate processes, and create substantial value. My goal is to empower investors, C-level executives, and management with a comprehensive understanding of their company in the digital age.
 
-#### 👉 My experience in creating Data ecosystem for TOP and Middle management ecosystem from scratch. I can help you company setup regular reporting connected to you company valuation model or financial model.
+#### 👉 With my extensive experience in establishing data ecosystems, I have successfully built robust digital infrastructures for top-level and middle management. Whether it's setting up regular reporting tied to your company's valuation model or financial model, I can assist your organization in harnessing the power of data to drive transformation and growth.
 
-#### 👉 Created BI solutions to track company KPI's from scratch.
+#### 👉 Another area of my expertise lies in crafting tailored business intelligence (BI) solutions from scratch. These solutions enable you to track and monitor key performance indicators (KPIs) that are vital to your digital business transformation journey. By implementing effective BI tools, your company can make informed decisions, stay agile, and thrive in the digital landscape.
 
 #### 🔥 19+ years of experience in IT and Business systems (Business/System Analyst, Team Lead/Head of division).
 
