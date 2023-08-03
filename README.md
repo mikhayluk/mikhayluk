@@ -1,6 +1,6 @@
 # Hi guys! 🤝 Its my experience 👇
 
-#### 👋 I specialize in guiding businesses through the exciting journey of digital business transformation. By leveraging technology and strategic insights, I help companies enhance their operations, automate processes, and create substantial value. My goal is to empower investors, C-level executives, and management with a comprehensive understanding of their company in the digital age.
+#### 👋 I specialize in guiding businesses through the exciting journey of digital transformation. By leveraging technology and strategic insights, I help companies enhance their operations, automate processes, and create substantial value. My goal is to empower investors, C-level executives, and management with a comprehensive understanding of their company in the digital age.
 
 #### 👉 With my extensive experience in establishing data ecosystems, I have successfully built robust digital infrastructures for top-level and middle management. Whether it's setting up regular reporting tied to your company's valuation model or financial model, I can assist your organization in harnessing the power of data to drive transformation and growth.
 
