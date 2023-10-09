@@ -6,9 +6,9 @@
 
 #### 👉 Another area of my expertise lies in crafting tailored business intelligence (BI) solutions from scratch. These solutions enable you to track and monitor key performance indicators (KPIs) that are vital to your digital business transformation journey. By implementing effective BI tools, your company can make informed decisions, stay agile, and thrive in the digital landscape.
 
-#### 🔥 19+ years of experience in IT and Business systems
-#### 🔥🔥 15+ years of experience as a Business/System Analyst
-#### 🔥🔥🔥 11+ years of experience as a Team Lead/Head of division
+#### 🔥 20+ years of experience in IT and Business systems
+#### 🔥🔥 16+ years of experience as a Business/System Analyst
+#### 🔥🔥🔥 12+ years of experience as a Team Lead/Head of division
 
 #### ✅ Skilled in data analysis, data modeling, and designing ETL processes. Expert at T-SQL with experience in performance tuning and dealing with large data volumes. Experience writing and tuning Python ETL data-pipeline, working with data libraries such as Pandas, NumPy for data manipulation, analysis, and visualization.
 
