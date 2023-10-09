@@ -1,4 +1,4 @@
-# Hi 🤝 its my experience 👇
+Hi 🤝 its my experience 👇
 
 #### 👋 I specialize in guiding businesses through digital transformation. By leveraging technology and strategic insights, I help companies enhance their operations, automate processes, and create substantial value. My goal is to empower investors, C-level executives, and management with a comprehensive understanding of their company in the digital age.
 
