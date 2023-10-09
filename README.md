@@ -19,6 +19,7 @@ Hi 🤝 its my experience 👇
 ___
 
 💾 Technology
+
 ![tSql](https://img.shields.io/badge/-tSQL-090909?style=for-the-badge&logo=microsoft&Color=47C5FB)
 ![KQL](https://img.shields.io/badge/-KQL-090909?style=for-the-badge&logo=microsoft&Color=47C5FB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&Color=47C5FB)
@@ -57,4 +58,5 @@ ___
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&Color=47C5FB)
 
 📈 My Stat
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhayluk&count_private=true&show_icons=true&theme=tokyonight)
