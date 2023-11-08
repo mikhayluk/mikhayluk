@@ -1,20 +1,20 @@
-Hi 🤝 its my experience 👇
+Hi 🤝 it's my experience 👇
 
-👋 I specialize in guiding businesses through digital transformation. By leveraging technology and strategic insights, I help companies enhance their operations, automate processes, and create substantial value. My goal is to empower investors, C-level executives, and management with a comprehensive understanding of their company in the digital age.
+👋 I specialize in guiding businesses through digital transformation. Helping companies enhance their operations, automate processes, and create substantial value by leveraging technology and strategic insights and empowering investors, C-level executives, and management with a comprehensive understanding of their company in the digital age.
 
-👉 With my extensive experience in establishing data ecosystems, I have successfully built robust digital infrastructures for top-level and middle management. Whether it's setting up regular reporting tied to your company's valuation model or financial model, I can assist your organization in harnessing the power of data to drive transformation and growth.
+👉 With my extensive experience establishing data ecosystems, I have successfully built robust digital infrastructures for top-level and middle management. Whether it's setting up regular reporting tied to your company's valuation model or financial model, I can assist your organization in harnessing the power of data to drive transformation and growth.
 
-👉 Another area of my expertise lies in crafting tailored business intelligence (BI) solutions from scratch. These solutions enable you to track and monitor key performance indicators (KPIs) that are vital to your digital business transformation journey. By implementing effective BI tools, your company can make informed decisions, stay agile, and thrive in the digital landscape.
+👉 Another area of my expertise is crafting tailored business intelligence (BI) solutions from scratch. These solutions enable you to track and monitor key performance indicators (KPIs) vital to your digital business transformation journey. By implementing practical BI tools, your company can make informed decisions, stay agile, and thrive in the digital landscape.
 
 🔥 20+ years of experience in IT and Business systems. 16+ years of experience as a Business/System Analyst. 12+ years of experience as a Team Lead/Head of division.
 
-✅ Skilled in data analysis, data modeling, and designing ETL processes. Expert at T-SQL with experience in performance tuning and dealing with large data volumes. Experience writing and tuning Python ETL data-pipeline, working with data libraries such as Pandas, NumPy for data manipulation, analysis, and visualization.
+✅ Skilled in data analysis, data modeling, and designing ETL processes. Expert at T-SQL with experience in performance tuning and dealing with large data volumes. Experience writing and tuning Python ETL data pipeline, working with data libraries such as Pandas, and NumPy for data manipulation, analysis, and visualization.
 
 ✅ Good understanding of concepts of enterprise big data architectures. Extensive experience in developing reporting and analytics solutions (Azure Synapse, Azure SQL Database, SSAS, Google BigQuery, PowerBI, Looker, ClickHouse, QlickView).
 
-✅ Knowledge of the Azure platform, including Data Lakes, Data Warehouse, and Azure Data Factory. Additional knowledge of the Azure Data Catalog, Master Data Services, and Data Quality Services is an advantage. Experience and a good understanding of the full Software Development Lifecycle.
+✅ Knowledge of the Azure platform, including Data Lakes, Data Warehouse, and Azure Data Factory. Additional knowledge of the Azure Data Catalog, Master Data Services, and Data Quality Services is advantageous. Experience and a good understanding of the entire Software Development Lifecycle.
 
-✅ Successful experience in Finance reporting (P&L, budget), Logistics, Marketing, VIP customer service department, Call center, Sales Department, Telephone sales, Key customers department, e-commerce reporting (Google integration), Complaints department, Azure migration.
+✅ Successful experience in Finance reporting (P&L, budget), Logistics, Marketing, VIP customer service department, Call center, Sales Department, Telephone sales, Key customers department, e-commerce reporting (Google integration), Complaints department, and Azure migration.
 
 ___
 
