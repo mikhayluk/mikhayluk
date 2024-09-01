@@ -18,8 +18,8 @@ We are reducing the number of manual operations for routine tasks, collecting va
 ✅ Business Solutions
 Turn information about your organization into valuable and actionable business information. Provide critical stakeholders or professionals with the necessary data to make effective business decisions.
 
-✅ Data Science
-Data science services analyze and process big data and extract essential information that we will apply to your needs.
+✅ Data science
+Data science application implementation services that we will apply to your needs.
 
 ✅ Data-Driven Management
 Creating data systems and analytics facilitates better decision-making, change implementation, and innovation at the management level.
