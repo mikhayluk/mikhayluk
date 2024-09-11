@@ -1,34 +1,24 @@
 Hi 🤝 it's my experience 👇
 
-✅ Digital Transformation
-Experience to modify existing — business processes, culture, and customer experiences to meet changing business and market requirements.
+✅ Digital Transformation. Experience to modify existing — business processes, culture, and customer experiences to meet changing business and market requirements.
 
-✅ BI analytics
-Implementing business intelligence systems is the modern approach to controlling business processes in your company.
+✅ BI analytics. Implementing business intelligence systems is the modern approach to controlling business processes in your company.
 
-✅ Business Intelligence Consulting
-I can help you rigorously analyze the current state of your data systems and highlight the areas that can be improved with business intelligence solutions.
+✅ Business Intelligence Consulting. I can help you rigorously analyze the current state of your data systems and highlight the areas that can be improved with business intelligence solutions.
 
-✅ Database Architect
-I design and implement efficient database architectures that help companies organize and manage the data they collect. With many years of experience, I ensure optimal data flow across the organization, leveraging modern technologies to enhance performance, scalability, and reliability.
+✅ Database Architect. I design and implement efficient database architectures that help companies organize and manage the data they collect. With many years of experience, I ensure optimal data flow across the organization, leveraging modern technologies to enhance performance, scalability, and reliability.
 
-✅ Workflow Automation
-We are reducing the number of manual operations for routine tasks, collecting valuable user data settings, and providing an engaging, personalized user experience.
+✅ Workflow Automation. We are reducing the number of manual operations for routine tasks, collecting valuable user data settings, and providing an engaging, personalized user experience.
 
-✅ Business Solutions
-I transform your organization’s data into valuable, actionable insights by integrating modern solutions, including AI technologies. My hands-on approach ensures these advanced tools are seamlessly implemented, empowering your team to leverage data for strategic growth.
+✅ Business Solutions. I transform your organization’s data into valuable, actionable insights by integrating modern solutions, including AI technologies. My hands-on approach ensures these advanced tools are seamlessly implemented, empowering your team to leverage data for strategic growth.
 
-✅ Data Science
-I specialize in implementing tailored data science solutions to meet your business needs. From data analysis to predictive modeling, I apply advanced techniques to help you unlock valuable insights, optimize decision-making, and drive growth. I craft every solution to ensure it aligns perfectly with your objectives and delivers measurable results.
+✅ Data Science. I specialize in implementing tailored data science solutions to meet your business needs. From data analysis to predictive modeling, I apply advanced techniques to help you unlock valuable insights, optimize decision-making, and drive growth. I craft every solution to ensure it aligns perfectly with your objectives and delivers measurable results.
 
-✅ Data-Driven Management
-I create customized data systems and analytics frameworks that empower management to make better decisions, implement changes effectively, and foster innovation. Through my hands-on approach, I ensure that the insights and tools align with your strategic goals, driving sustainable growth and success at the leadership level.
+✅ Data-Driven Management. I create customized data systems and analytics frameworks that empower management to make better decisions, implement changes effectively, and foster innovation. Through my hands-on approach, I ensure that the insights and tools align with your strategic goals, driving sustainable growth and success at the leadership level.
 
-✅ Google Ads
-Many years of experience setting up Google Ads campaigns (keyword selection, ad creation, budget, and bids, where your ads appear, measuring success, continuous improvement) to successfully advertise your product or service online.
+✅ Google Ads. Many years of experience setting up Google Ads campaigns (keyword selection, ad creation, budget, and bids, where your ads appear, measuring success, continuous improvement) to successfully advertise your product or service online.
 
-✅ Facebook Ads
-Extensive experience in creating complex Facebook advertising campaigns. This comprehensive service covers all aspects of successful Facebook advertising (audience targeting, creative, budget management, ad placement strategy, performance tracking, and ongoing optimization).
+✅ Facebook Ads. Extensive experience in creating complex Facebook advertising campaigns. This comprehensive service covers all aspects of successful Facebook advertising (audience targeting, creative, budget management, ad placement strategy, performance tracking, and ongoing optimization).
 
 ___
 
