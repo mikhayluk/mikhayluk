@@ -58,8 +58,3 @@ ___
 📈 My Stat
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhayluk&count_private=true&show_icons=true&theme=tokyonight)
-
-
-🔧 My Lang
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhayluk&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=60)
