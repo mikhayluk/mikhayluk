@@ -2,35 +2,16 @@
 
 👉 With over 20 years in IT and 15+ years specializing in digital and data-driven solutions, I’ve worked with companies at different stages of their technological evolution — whether building data infrastructure from scratch or scaling to enterprise-level analytics. My focus is on empowering businesses with AI-driven insights, modern data ecosystems, and strategic project management to accelerate growth and maximize competitive advantage.
 
-✅ Digital Transformation
-Transforming business processes, culture, and customer interactions to meet changing market demands, ensuring companies stay ahead of the curve. 🚀💼
-
-✅ BI Analytics
-Implementing BI systems that provide real-time insights to monitor processes, spot trends, and make data-driven decisions that improve efficiency and control. 📊🚀
-
-✅ Business Intelligence Consulting
-Conducting a thorough analysis of current data systems to identify areas for improvement through advanced BI tools. 📊💡
-
-✅ Database Architecture
-Designing and implementing efficient, scalable, and reliable database architectures to optimize data flow and enhance performance and reliability. 🖥️⚙️
-
-✅ Workflow Automation
-Reducing manual tasks, automating workflows, and delivering valuable insights to boost efficiency and productivity. 🤖📊
-
-✅ Business Solutions
-Transforming data into actionable insights by integrating modern solutions like AI to help your team make data-driven decisions for strategic growth. 📲💡
-
-✅ Data Science
-Using advanced techniques such as predictive modeling and analysis to uncover insights, optimize decision-making, and drive business growth. 🚀🔍
-
-✅ Data-Driven Management
-Building tailored data systems and analytics frameworks empowers management to make informed decisions, leading to sustainable growth. 💼📊
-
-✅ Google Ads
-Years of experience running Google Ads campaigns, from keyword selection to budget optimization, driving targeted results and conversions. 💻💰
-
-✅ Facebook Ads
-Creating and optimizing complex Facebook ad campaigns, with expertise in audience targeting, ad placement, and performance tracking to ensure results. 📱📈
+🔹 Digital Transformation – Modernizing business processes and customer experiences to stay ahead in a fast-changing market.
+🔹 BI & Data Analytics – Real-time insights to drive smarter decisions and improve operational efficiency.
+🔹 BI Consulting – Assessing and upgrading data systems with cutting-edge BI tools.
+🔹 Database Architecture – Scalable, reliable data structures for optimized performance.
+🔹 Workflow Automation – Streamlining operations, reducing manual work, increasing productivity.
+🔹 Business Solutions – Turning data into actionable insights using AI and modern tools.
+🔹 Data Science – Predictive modeling & analytics to drive business growth.
+🔹 Data-Driven Management – Empowering leaders with data to make strategic decisions.
+🔹 Google Ads – ROI-focused campaign management from keywords to conversions.
+🔹 Facebook Ads – High-performing ad strategies with smart targeting and analytics.
 
 ___
 
