@@ -62,4 +62,4 @@ ___
 
 🔧 My Lang
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhayluk&layout=compact&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhayluk&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=60)
