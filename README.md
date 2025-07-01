@@ -57,4 +57,4 @@ ___
 
 📈 My Stat
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhayluk&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhayluk&count_private=true&show_icons=true&theme=default)
