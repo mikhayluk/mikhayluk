@@ -1,17 +1,27 @@
 ✋ Hi! I’m an expert in Digital Transformation, Artificial Intelligence, Data Engineering, and Business Systems (ERP & CRM). With extensive experience across various industries, I help businesses implement cutting-edge technologies, optimize processes, and unlock the full potential of their data. My expertise lies in transforming workflows, automating operations, and designing scalable data architectures that drive innovation and efficiency.
 
-👉 With over 20 years in IT and 15+ years specializing in digital and data-driven solutions, I’ve worked with companies at different stages of their technological evolution — whether building data infrastructure from scratch or scaling to enterprise-level analytics. My focus is on empowering businesses with AI-driven insights, modern data ecosystems, and strategic project management to accelerate growth and maximize competitive advantage.
+👉 With over 20 years in IT and 15+ years specializing in digital and data-driven solutions, I’ve worked with companies at different stages of their technological evolution — from building data infrastructure from scratch to scaling enterprise-level analytics. My focus is on empowering businesses with AI-driven insights, modern data ecosystems, and strategic project management to accelerate growth and maximize competitive advantage.
 
-🔹 Digital Transformation – Modernizing business processes and customer experiences to stay ahead in a fast-changing market. 
-🔹 BI & Data Analytics – Real-time insights to drive smarter decisions and improve operational efficiency. 
-🔹 BI Consulting – Assessing and upgrading data systems with cutting-edge BI tools. 
-🔹 Database Architecture – Scalable, reliable data structures for optimized performance. 
-🔹 Workflow Automation – Streamlining operations, reducing manual work, increasing productivity. 
-🔹 Business Solutions – Turning data into actionable insights using AI and modern tools. 
-🔹 Data Science – Predictive modeling & analytics to drive business growth. 
-🔹 Data-Driven Management – Empowering leaders with data to make strategic decisions. 
-🔹 Google Ads – ROI-focused campaign management from keywords to conversions. 
-🔹 Facebook Ads – High-performing ad strategies with smart targeting and analytics. 
+🔹 Digital Transformation – Modernizing business processes and customer experiences to stay ahead in a fast-changing market.
+🔹 BI & Data Analytics – Real-time insights to drive smarter decisions and improve operational efficiency.
+🔹 BI Consulting – Assessing and upgrading data systems with cutting-edge BI tools.
+🔹 Database Architecture – Scalable, reliable data structures for optimized performance.
+🔹 Workflow Automation – Streamlining operations, reducing manual work, increasing productivity.
+🔹 Business Solutions – Turning data into actionable insights using AI and modern tools.
+🔹 Data Science – Predictive modeling & analytics to drive business growth.
+🔹 Data-Driven Management – Empowering leaders with data to make strategic decisions.
+🔹 CRM & ERP Systems – Implementation and optimization for effective business operations.
+🔹 API Development & Integration – Building robust connections across platforms.
+🔹 Retail & POS Solutions – Digital systems tailored for retail businesses.
+🔹 Mobile Applications – Commercial apps for iOS and Android.
+🔹 Unique Business Process Design – Crafting tailored workflows that maximize efficiency.
+🔹 Google Ads – ROI-focused campaign management from keywords to conversions.
+🔹 Facebook Ads – High-performing ad strategies with smart targeting and analytics.
+
+📘 Lecturer & Author of the Course “Artificial Intelligence for Business”
+💼 A practical 10-module program that equips managers and students with hands-on AI skills for sales, marketing, operations, and management. The course blends theory with practice through case studies, interactive exercises, and real-world assignments.
+
+🎓 Educational Leadership – Developing programs that bring AI and digital transformation knowledge to professionals and future leaders.
 
 ___
 
