@@ -5,6 +5,7 @@
 🚀 I design and implement end-to-end AI & data ecosystems — from data architecture and integrations to predictive analytics, AI copilots, executive dashboards, and automation platforms.
 
 🔹 AI & ML Solutions — Predictive analytics, forecasting, anomaly detection, recommendation systems, and AI-driven optimization.
+
 🔹 Generative AI & AI Agents — LLM integrations, AI copilots, intelligent assistants, workflow automation, and GenAI solutions.
 🔹 Data & Analytics Platforms — Scalable Lakehouse, DWH, and real-time analytics ecosystems for enterprise decision-making.
 🔹 Data Engineering — Modern ETL/ELT pipelines, API integrations, cloud-native architectures, and unified data layers.
