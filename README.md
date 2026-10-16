@@ -1,7 +1,11 @@
 🚀 Digital Transformation, AI & Data Solutions Executive with 20+ years in IT and 15+ years in data, analytics, and digital transformation.
+
 🎯 I help businesses modernize operations, integrate enterprise systems, and leverage AI, data, and automation to drive efficiency, scalability, and sustainable growth.
+
 🔹 Core Expertise: Digital Transformation | AI & AI Agents | Data Engineering & Analytics | ERP/CRM Integration | Intelligent Automation | Enterprise Architecture | Business Strategy.
+
 🏢 Industry Experience: FMCG, Retail, Distribution, Agriculture, Oil & Gas, eCommerce, and Crypto.
+
 🎓 Education: Lecturer and author of professional education programs in AI, Data, and Business Intelligence.
 
 ___
